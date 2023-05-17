@@ -5,7 +5,7 @@ function Home() {
     return (
         <>
             <div className="text-center">
-                Welcome to the Home Page
+                <h1 title="Header" data-testid="Header-1">Welcome to Cognith's Home Page</h1>
             </div>
         </>
     )
